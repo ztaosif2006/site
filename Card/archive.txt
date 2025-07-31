@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Irem Melis Yıldız</title>
+    <title></title>
     <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,500" rel="stylesheet">
     <style>
         * {
@@ -145,9 +145,9 @@
             z-index: 0; 
         }
 
-        .melis {
+        .zaid {
             position: absolute;
-            bottom: 2vh; 
+            bottom: 0vh; 
             left: 2vh; 
             width: 20%; 
             z-index: 0; 
@@ -163,7 +163,7 @@
             opacity: 0.9; 
             object-fit: cover; 
         }
-            /*@ar3ne.337*/
+            /*Coded by _z.taosif2006 (viʒe)*/
         
         @media (max-width: 600px) {
             :root {
@@ -197,19 +197,20 @@
                 <img src="roses.webp" alt="Roses"> 
             </div>
             <div class="card card-back">
-                <h3>Irem Melis Yıldız</h3>
-                <p>Psychologist</p>
+                <h3>Zaid Taosif Prottoy</h3>
+                <p>Student, BAFSJ</p>
                 <div class="info">
-                    <span class="label">• <a href="https://discord.com/users/1380922648128655553" target="_blank"> Discord</a> </span> 
-                    <span class="label">• <a href="https://www.instagram.com/_y.iremelis/" target="_blank"> Instagram</a> </span> 
-                    <span class="label">• <a href="mailto:#" target="_blank"> Email</a> • </span>
+                    <span class="label">• <a href="https://discord.com/users/1400492587697307658" target="_blank"> DC</a> </span> 
+                    <span class="label">• <a href="https://www.instagram.com/_z.taosif2006/" target="_blank"> IG</a> </span> 
+                    <span class="label">• <a href="https://www.facebook.com/z.taosif2006/" target="_blank"> FB</a> </span> 
+                    <span class="label">• <a href="mailto:zaidtaosif2006@gmail.com" target="_blank"> Email</a> • </span>
                 </div>
                 <div class="info">
-                    <span class="label">Based in: Alanya, Türkiye</span> 
+                    <span class="label">Based: Jashore, Bangladesh</span> 
                 </div>
                 <img src="spade.webp" alt="spade" class="spade">
-                <img src="melis.webp" alt="Melis" class="melis">
-                <img src="ace.webp" alt="Ace" class="ace"> 
+                <img src="zaid.webp" alt="zaid" class="zaid">
+                <img src="ace.webp" alt="ace" class="ace"> 
             </div>
         </div>
     </div>
