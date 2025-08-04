@@ -10,37 +10,15 @@ const items = [
   "Chromatic Loopscape",
   "Solar Bloom",
   "Neon Handscape",
-  "Echo Discs",
-  "Void Gaze",
-  "Gravity Sync",
-  "Heat Core",
-  "Fractal Mirage",
-  "Nova Pulse",
-  "Sonic Horizon",
-  "Dream Circuit",
-  "Lunar Mesh",
-  "Radiant Dusk",
-  "Pixel Drift",
-  "Vortex Bloom",
-  "Shadow Static",
-  "Crimson Phase",
-  "Retro Cascade",
-  "Photon Fold",
-  "Zenith Flow"
+  "Echo Discs"
 ];
 
-// Updated: Added placeholder image URLs (from Unsplash)
+// Updated: Use local images from the images folder
 const imageUrls = [
-  "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
-  "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
-  "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05",
-  "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
-  "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07",
-  "https://images.unsplash.com/photo-1472214103451-9374bd1c798e",
-  "https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f",
-  "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1",
-  "https://images.unsplash.com/photo-1510784722466-f2aa9c52fff6",
-  "https://images.unsplash.com/photo-1501854140801-50d01698950b"
+  "images/Girl with a Pearl Earring.webp",
+  "images/Liberation War.webp",
+  "images/Starry Night.webp",
+  "images/The Great Wave Off Kanagawa.webp"
 ];
 
 const container = document.querySelector(".container");
