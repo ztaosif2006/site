@@ -7,18 +7,18 @@ CustomEase.create("hop", "0.9, 0, 0.1, 1");
 
 // Project titles
 const items = [
-  "Chromatic Loopscape",
-  "Solar Bloom",
-  "Neon Handscape",
-  "Echo Discs"
+  "Girl with a Pearl Earring",
+  "Liberation War",
+  "The Starry Night",
+  "The Great Wave Off Kanagawa"
 ];
 
 // Updated: Use local images from the images folder
 const imageUrls = [
-  "images/Girl with a Pearl Earring.webp",
-  "images/Liberation War.webp",
-  "images/Starry Night.webp",
-  "images/The Great Wave Off Kanagawa.webp"
+  "https://vi3e.pages.dev/Gallary/Images/Girl with a Pearl Earring.webp",
+  "https://vi3e.pages.dev/Gallary/Images/Liberation War.webp",
+  "https://vi3e.pages.dev/Gallary/Images/Starry Night.webp",
+  "https://vi3e.pages.dev/Gallary/Images/The Great Wave Off Kanagawa.webp"
 ];
 
 const container = document.querySelector(".container");
