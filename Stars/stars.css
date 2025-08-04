@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: radial-gradient(ellipse at center, black 0%, #0a0a0a 100%);
+}
+canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+
+#intro-text {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 1.5rem;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  pointer-events: none;
+  opacity: 1;
+  transition: opacity 1.5s ease;
+  z-index: 10;
+}
