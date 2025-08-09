@@ -95,7 +95,7 @@ export const songs = [
   { title: "Let Me Go", name: "Hailee Steinfeld", source: "https://vi3e.pages.dev/Music/Songs/Let Me Go  - Hailee Steinfeld.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Let Me Go.jpg" },
   { title: "Lollipop", name: "CHROMANCE", source: "https://vi3e.pages.dev/Music/Songs/Lollipop - CHROMANCE.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Lollipop.jpg" },
   { title: "Lonely Together", name: "Avicii", source: "https://vi3e.pages.dev/Music/Songs/Lonely Together - Avicii.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Lonely Together.jpg" },
-  { title: "Look Who's Cryin' Now", name: "Jessie Mupph", source: "https://vi3e.pages.dev/Music/Songs/Look Who's Cryin' Now - Jessie Mupph.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Look Who's Cryin' Now.jpg" },
+  { title: "Look Who's Cryin' Now", name: "Jessie Mupph", source: "https://vi3e.pages.dev/Music/Songs/Look Who's Cryin' Now - Jessie Murph.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Look Who's Cryin' Now.jpg" },
   { title: "Loote", name: "she's all yours", source: "https://vi3e.pages.dev/Music/Songs/she's all yours - Loote.mp3", cover: "https://vi3e.pages.dev/Music/Covers/she's all yours.jpg" },
   { title: "Love To Lose", name: "Sandro Cavazza", source: "https://vi3e.pages.dev/Music/Songs/Love To Lose - Sandro Cavazza.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Love To Lose.jpg" },
   { title: "lovely", name: "Billie Eilish", source: "https://vi3e.pages.dev/Music/Songs/lovely - Billie Eilish.mp3", cover: "https://vi3e.pages.dev/Music/Covers/lovely.jpg" },
