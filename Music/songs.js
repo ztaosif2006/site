@@ -185,7 +185,7 @@ export const songs = [
   { title: "TiK ToK", name: "EQRIC", source: "https://vi3e.pages.dev/Music/Songs/TiK ToK - EQRIC.mp3", cover: "https://vi3e.pages.dev/Music/Covers/TiK ToK.jpg" },
   { title: "Too Late", name: "OmgLoSteve", source: "https://vi3e.pages.dev/Music/Songs/Too Late - OmgLoSteve.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Too Late.jpg" },
   { title: "Tutsak", name: "Sefo", source: "https://vi3e.pages.dev/Music/Songs/Tutsak - Sefo.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Tutsak.jpg" },
-  { title: "Up", name: "INNA", source: "https://vi3e.pages.dev/Music/Songs/UP - INNA.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Up.jpg" },
+  { title: "Up", name: "INNA", source: "https://vi3e.pages.dev/Music/Songs/UP - INNA.mp3", cover: "https://vi3e.pages.dev/Music/Covers/UP.jpg" },
   { title: "Used To", name: "Sandro Cavazza", source: "https://vi3e.pages.dev/Music/Songs/Used To - Sandro Cavazza.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Used To.jpg" },
   { title: "Wake Me Up In Paris", name: "Anthony Keyrouz", source: "https://vi3e.pages.dev/Music/Songs/Wake Me Up In Paris - Anthony Keyrouz.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Wake Me Up In Paris.jpg" },
   { title: "Waiting", name: "Vicetone", source: "https://vi3e.pages.dev/Music/Songs/Waiting - Vicetone.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Waiting.jpg" },
