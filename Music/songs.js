@@ -35,7 +35,7 @@ export const songs = [
   { title: "death bed", name: "Powfu", source: "https://vi3e.pages.dev/Music/Songs/death bed  - Powfu.mp3", cover: "https://vi3e.pages.dev/Music/Covers/death bed.jpg" },
   { title: "Deep End", name: "Ameryh", source: "https://vi3e.pages.dev/Music/Songs/Deep End - Ameryh.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Deep End.jpg" },
   { title: "Dekhha Tenu", name: "Mohammad Faiz", source: "https://vi3e.pages.dev/Music/Songs/Dekhha Tenu - Mohammad Faiz.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Dekhha Tenu.jpg" },
-  { title: "DÃ©jÃ  Vu", name: "Yves V", source: "https://vi3e.pages.dev/Music/Songs/DÃ©jÃ  Vu - Yves V.mp3", cover: "https://vi3e.pages.dev/Music/Covers/DÃ©jÃ  Vu.jpg" },
+  { title: "Deja  Vu", name: "Yves V", source: "https://vi3e.pages.dev/Music/Songs/Dejavu - Yves V.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Dejavu.jpg" },
   { title: "Die For You", name: "VALORANT", source: "https://vi3e.pages.dev/Music/Songs/Die For You - VALORANT.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Die For You.jpg" },
   { title: "Die With A Smile", name: "Lady Gaga", source: "https://vi3e.pages.dev/Music/Songs/Die With A Smile - Lady Gaga.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Die With A Smile.jpg" },
   { title: "Dirty Thoughts", name: "Chloe Adams", source: "https://vi3e.pages.dev/Music/Songs/Dirty Thoughts - Chloe Adams.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Dirty Thoughts.jpg" },
@@ -203,6 +203,4 @@ export const songs = [
   { title: "Wrap Me In Plastic", name: "CHROMANCE", source: "https://vi3e.pages.dev/Music/Songs/Wrap Me In Plastic - CHROMANCE.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Wrap Me In Plastic.jpg" },
   { title: "You should be sad", name: "Halsey", source: "https://vi3e.pages.dev/Music/Songs/You should be sad - Halsey.mp3", cover: "https://vi3e.pages.dev/Music/Covers/You should be sad.jpg" },
   { title: "Young", name: "The Chainsmokers", source: "https://vi3e.pages.dev/Music/Songs/Young - The Chainsmokers.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Young.jpg" },
-  { title: "Ð”Ð¸ÐºÐ°Ñ Ð»ÑŒÐ²Ð¸Ñ†Ð°", name: "ALEX", source: "https://vi3e.pages.dev/Music/Songs/Ð”Ð¸ÐºÐ°Ñ Ð»ÑŒÐ²Ð¸Ñ†Ð° - ALEX.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Ð”Ð¸ÐºÐ°Ñ Ð»ÑŒÐ²Ð¸Ñ†Ð°.jpg" },
-  { title: "Ð‡Ð´Ðµ Ð´Ð°Ñ…", name: "Klavdia Petrivna", source: "https://vi3e.pages.dev/Music/Songs/Ð‡Ð´Ðµ Ð´Ð°Ñ… - Klavdia Petrivna.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Ð‡Ð´Ðµ Ð´Ð°Ñ….jpg" }
-];
+  ];
