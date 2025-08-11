@@ -172,7 +172,6 @@ export const songs = [
   { title: "Tattoo", name: "Loreen", source: "https://vi3e.pages.dev/Music/Songs/Tattoo - Loreen.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Tattoo.jpg" },
   { title: "Telepatia", name: "Farizki", source: "https://vi3e.pages.dev/Music/Songs/Telepatia - Farizki.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Telepatia.jpg" },
   { title: "Tell Me Why", name: "Loote", source: "https://vi3e.pages.dev/Music/Songs/Tell Me Why - Loote.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Tell Me Why.jpg" },
-  { title: "Tell Me Why", name: "Locte", source: "https://vi3e.pages.dev/Music/Songs/Tell Me Why - Locte.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Tell Me Why.jpg" },
   { title: "That's So True", name: "Gracie Abrams", source: "https://vi3e.pages.dev/Music/Songs/That's So True - Gracie Abrams.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Thatâ€™s So True.jpg" },
   { title: "The Greatest", name: "Sia", source: "https://vi3e.pages.dev/Music/Songs/The Greatest - Sia.mp3", cover: "https://vi3e.pages.dev/Music/Covers/The Greatest.jpg" },
   { title: "The Great Escape", name: "Josie Edwards", source: "https://vi3e.pages.dev/Music/Songs/The Great Escape - Josie Edwards.mp3", cover: "https://vi3e.pages.dev/Music/Covers/The Great Escape.jpg" },
