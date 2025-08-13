@@ -35,7 +35,7 @@ export const songs = [
   { title: "death bed", name: "Powfu", source: "https://vi3e.pages.dev/Music/Songs/death bed  - Powfu.mp3", cover: "https://vi3e.pages.dev/Music/Covers/death bed.jpg" },
   { title: "Deep End", name: "Ameryh", source: "https://vi3e.pages.dev/Music/Songs/Deep End - Ameryh.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Deep End.jpg" },
   { title: "Dekhha Tenu", name: "Mohammad Faiz", source: "https://vi3e.pages.dev/Music/Songs/Dekhha Tenu - Mohammad Faiz.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Dekhha Tenu.jpg" },
-  { title: "DÃ©jÃ  Vu", name: "Yves V", source: "https://vi3e.pages.dev/Music/Songs/DÃ©jÃ  Vu - Yves V.mp3", cover: "https://vi3e.pages.dev/Music/Covers/DÃ©jÃ  Vu.jpg" },
+  { title: "Deja  Vu", name: "Yves V", source: "https://vi3e.pages.dev/Music/Songs/Dejavu - Yves V.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Dejavu.jpg" },
   { title: "Die For You", name: "VALORANT", source: "https://vi3e.pages.dev/Music/Songs/Die For You - VALORANT.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Die For You.jpg" },
   { title: "Die With A Smile", name: "Lady Gaga", source: "https://vi3e.pages.dev/Music/Songs/Die With A Smile - Lady Gaga.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Die With A Smile.jpg" },
   { title: "Dirty Thoughts", name: "Chloe Adams", source: "https://vi3e.pages.dev/Music/Songs/Dirty Thoughts - Chloe Adams.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Dirty Thoughts.jpg" },
@@ -172,8 +172,7 @@ export const songs = [
   { title: "Tattoo", name: "Loreen", source: "https://vi3e.pages.dev/Music/Songs/Tattoo - Loreen.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Tattoo.jpg" },
   { title: "Telepatia", name: "Farizki", source: "https://vi3e.pages.dev/Music/Songs/Telepatia - Farizki.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Telepatia.jpg" },
   { title: "Tell Me Why", name: "Loote", source: "https://vi3e.pages.dev/Music/Songs/Tell Me Why - Loote.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Tell Me Why.jpg" },
-  { title: "Tell Me Why", name: "Locte", source: "https://vi3e.pages.dev/Music/Songs/Tell Me Why - Locte.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Tell Me Why.jpg" },
-  { title: "That's So True", name: "Gracie Abrams", source: "https://vi3e.pages.dev/Music/Songs/That's So True - Gracie Abrams.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Thatâ€™s So True.jpg" },
+  { title: "That's So True", name: "Gracie Abrams", source: "https://vi3e.pages.dev/Music/Songs/That's So True - Gracie Abrams.mp3", cover: "https://vi3e.pages.dev/Music/Covers/That's So True.jpg" },
   { title: "The Greatest", name: "Sia", source: "https://vi3e.pages.dev/Music/Songs/The Greatest - Sia.mp3", cover: "https://vi3e.pages.dev/Music/Covers/The Greatest.jpg" },
   { title: "The Great Escape", name: "Josie Edwards", source: "https://vi3e.pages.dev/Music/Songs/The Great Escape - Josie Edwards.mp3", cover: "https://vi3e.pages.dev/Music/Covers/The Great Escape.jpg" },
   { title: "The Middle", name: "Zedd", source: "https://vi3e.pages.dev/Music/Songs/The Middle - Zedd.mp3", cover: "https://vi3e.pages.dev/Music/Covers/The Middle.jpg" },
@@ -185,7 +184,7 @@ export const songs = [
   { title: "TiK ToK", name: "EQRIC", source: "https://vi3e.pages.dev/Music/Songs/TiK ToK - EQRIC.mp3", cover: "https://vi3e.pages.dev/Music/Covers/TiK ToK.jpg" },
   { title: "Too Late", name: "OmgLoSteve", source: "https://vi3e.pages.dev/Music/Songs/Too Late - OmgLoSteve.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Too Late.jpg" },
   { title: "Tutsak", name: "Sefo", source: "https://vi3e.pages.dev/Music/Songs/Tutsak - Sefo.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Tutsak.jpg" },
-  { title: "Up", name: "INNA", source: "https://vi3e.pages.dev/Music/Songs/UP - INNA.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Up.jpg" },
+  { title: "Up", name: "INNA", source: "https://vi3e.pages.dev/Music/Songs/UP - INNA.mp3", cover: "https://vi3e.pages.dev/Music/Covers/UP.jpg" },
   { title: "Used To", name: "Sandro Cavazza", source: "https://vi3e.pages.dev/Music/Songs/Used To - Sandro Cavazza.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Used To.jpg" },
   { title: "Wake Me Up In Paris", name: "Anthony Keyrouz", source: "https://vi3e.pages.dev/Music/Songs/Wake Me Up In Paris - Anthony Keyrouz.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Wake Me Up In Paris.jpg" },
   { title: "Waiting", name: "Vicetone", source: "https://vi3e.pages.dev/Music/Songs/Waiting - Vicetone.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Waiting.jpg" },
@@ -204,6 +203,4 @@ export const songs = [
   { title: "Wrap Me In Plastic", name: "CHROMANCE", source: "https://vi3e.pages.dev/Music/Songs/Wrap Me In Plastic - CHROMANCE.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Wrap Me In Plastic.jpg" },
   { title: "You should be sad", name: "Halsey", source: "https://vi3e.pages.dev/Music/Songs/You should be sad - Halsey.mp3", cover: "https://vi3e.pages.dev/Music/Covers/You should be sad.jpg" },
   { title: "Young", name: "The Chainsmokers", source: "https://vi3e.pages.dev/Music/Songs/Young - The Chainsmokers.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Young.jpg" },
-  { title: "Ð”Ð¸ÐºÐ°Ñ Ð»ÑŒÐ²Ð¸Ñ†Ð°", name: "ALEX", source: "https://vi3e.pages.dev/Music/Songs/Ð”Ð¸ÐºÐ°Ñ Ð»ÑŒÐ²Ð¸Ñ†Ð° - ALEX.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Ð”Ð¸ÐºÐ°Ñ Ð»ÑŒÐ²Ð¸Ñ†Ð°.jpg" },
-  { title: "Ð‡Ð´Ðµ Ð´Ð°Ñ…", name: "Klavdia Petrivna", source: "https://vi3e.pages.dev/Music/Songs/Ð‡Ð´Ðµ Ð´Ð°Ñ… - Klavdia Petrivna.mp3", cover: "https://vi3e.pages.dev/Music/Covers/Ð‡Ð´Ðµ Ð´Ð°Ñ….jpg" }
-];
+  ];
